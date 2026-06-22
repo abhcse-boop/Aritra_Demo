@@ -1,3 +1,3 @@
 # Aritra_Demo
 This my first demo
-Aritra 
+Aritra Bhattacharyya
